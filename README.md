@@ -17,7 +17,7 @@ For the past 10 years, I've been at the helm of a successful phone and computer 
 ## 🛠️ Projects:
 
 I've developed two notable projects
- - Discord Bot showcasing my Python skills. Implemented a level system using SQLite3, enhancing the interactive and dynamic nature of the bot.
+ - Discord Bot implemented a dynamic level system that tracks user activity in the Discord channel. Users earn XP for each word they type, and upon reaching specific XP milestones, they level up, earning unique titles.
  - An internal management software for our store, crafted with Flask and powered by PostgreSQL that optimizes client management for device repairs.
 
 
