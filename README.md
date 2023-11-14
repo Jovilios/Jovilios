@@ -8,11 +8,11 @@ For the past 10 years, I've been at the helm of a successful phone and computer 
 
 ## 🌐 Technical Proficiency:
 
-Python (Fluent)
-PostgreSQL
-GitHub
-Django ORM
-Object-Oriented Programming (OOP)
+ - Python (Fluent)
+ - PostgreSQL
+ - GitHub
+ - Django ORM
+ - Object-Oriented Programming (OOP)
 
 ## 🛠️ Projects:
 
