@@ -17,8 +17,8 @@ For the past 10 years, I've been at the helm of a successful phone and computer 
 ## 🛠️ Projects:
 
 I've developed two notable projects
- - Discord Bot showcasing my Python skills
- - An internal management software for our store, crafted with Flask and powered by PostgreSQL. This software optimizes client management for device repairs, highlighting my commitment to leveraging technology for practical problem-solving.
+ - Discord Bot showcasing my Python skills. Implemented a level system using SQLite3, enhancing the interactive and dynamic nature of the bot.
+ - An internal management software for our store, crafted with Flask and powered by PostgreSQL that optimizes client management for device repairs.
 
 
 ## 📚 Continuous Learning:
